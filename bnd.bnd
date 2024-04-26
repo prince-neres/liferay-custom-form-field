@@ -1,0 +1,7 @@
+Bundle-Name: Liferay Custom Form Field
+Bundle-SymbolicName: dynamic.data.mapping.form.field
+Bundle-Version: 1.0.0
+Provide-Capability:\
+	soy;\
+		type:String="LiferayFormField"
+Web-ContextPath: /dynamic-data-mapping-form-field
